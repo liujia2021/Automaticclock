@@ -139,6 +139,7 @@ def wechatPush(title,sckey,success,fail,result):
     strTime = getNowTime()
     page = json.dumps(result.json(), sort_keys=True, indent=4, separators=(',', ': '),ensure_ascii=False)
     content = f"""
+ #### 打卡时间：
 `{strTime}` 
 #### 打卡成功用户：
 `{success}` 
