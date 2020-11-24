@@ -19,4 +19,4 @@ Automatic clock
 
 Server地址:
 
-[Server酱](http://blog.csdn.net/guodongxiaren "Server酱")
+>[Server酱](http://blog.csdn.net/guodongxiaren "Server酱")
