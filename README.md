@@ -18,6 +18,5 @@ Automatic clock
 =
 
 Server地址:
-```
-http://sc.ftqq.com/?c=code
-```
+
+[Server酱](http://blog.csdn.net/guodongxiaren "Server酱")
