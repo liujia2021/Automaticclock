@@ -20,5 +20,3 @@ Automatic clock
 Server地址:
 
 >[Server酱](http://sc.ftqq.com/?c=code "Server酱")
-
-00
